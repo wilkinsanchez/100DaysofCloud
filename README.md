@@ -23,7 +23,7 @@
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Day1.md)
+- [ ] ☁️ 1 > [Setup Microsoft 365 Tenant](Journey/001/Day1.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
