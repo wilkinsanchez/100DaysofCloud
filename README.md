@@ -24,7 +24,7 @@
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [Setup Microsoft 365 Tenant](Journey/001/Day1.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Configure Self-Service password reset - MS365](Journey/002/Day2.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
