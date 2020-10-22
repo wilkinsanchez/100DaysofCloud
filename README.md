@@ -18,8 +18,8 @@
 
 - At the end of this challenge I will understand better how cloud applications, services, and the security work. I will also like to achieve security certifications and improve my career in CyberSecurity.
 
-- [✍️ Link to Twitter](https://twitter.com/wilkinsanchez)
-- [✍️ Link to LinkedIn](https://www.linkedin.com/in/wilkinsanchez/)
+- [Link to Twitter](https://twitter.com/wilkinsanchez)
+- [Link to LinkedIn](https://www.linkedin.com/in/wilkinsanchez/)
 
 ## Stepping out the door
 
