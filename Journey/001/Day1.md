@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/08/microsoftoffice365-e1535627938917.jpg?fit=2130%2C873&ssl=1)
 
 # New post title here
 
