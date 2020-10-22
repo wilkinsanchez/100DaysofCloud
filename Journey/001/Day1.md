@@ -19,4 +19,4 @@ https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6724873700761493505-5T6M)
