@@ -1,4 +1,3 @@
-**Add a cover photo like:**
 ![placeholder image](https://lh3.googleusercontent.com/proxy/q-Hgm5TMRA4-wvhozfnNMJbYApjdDKqpRZ2m7L_z5G1r3TYnmw6EGNoFpdWZkoRcRClIZ10zbZjsnAUbgkCRaqHH0yv3bARZcjJ8LGnSsyYaGxo0D5Wgh4svspo)
 
 # New post title here
