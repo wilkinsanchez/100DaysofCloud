@@ -12,14 +12,14 @@
 
 ## Wilkin Sanchez's Cloud Journey
 
-Technology Professional - Passionate about Cyber Security - I enjoy helping people learn more about technology and how to stay secured on the internet.
+- Technology Professional - Passionate about Cyber Security - I enjoy helping people learn more about technology and how to stay secured on the internet.
 
-I started this challenge to learn more about Cloud technologies and how to secure cloud applications and services.
+- I started this challenge to learn more about Cloud technologies and how to secure cloud applications and services.
 
-At the end of this challenge I will understand better how cloud applications, services, and the security work. I will also like to achieve security certifications and improve my career in CyberSecurity.
+- At the end of this challenge I will understand better how cloud applications, services, and the security work. I will also like to achieve security certifications and improve my career in CyberSecurity.
 
-- [✍️ Link to your Twitter](https://twitter.com/wilkinsanchez)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/wilkinsanchez/)
+- [✍️ Link to Twitter](https://twitter.com/wilkinsanchez)
+- [✍️ Link to LinkedIn](https://www.linkedin.com/in/wilkinsanchez/)
 
 ## Stepping out the door
 
