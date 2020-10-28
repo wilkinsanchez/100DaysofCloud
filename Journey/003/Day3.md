@@ -1,6 +1,5 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-**Add a cover photo like:**
 ![placeholder image](https://www.managedsolution.com/wp-content/uploads/2018/09/bigstock-Password-Input-On-Blurred-Back-236308780-1920x1282.jpg)
 
 # Deploy Azure AD Smart Lockout
@@ -20,4 +19,4 @@ I read some articles from Microsoft that allowed me to understand the technology
 https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-password-smart-lockout
 ## Social Proof
 
-[link](link)
+[link](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6727045880152764416-x0yA)
