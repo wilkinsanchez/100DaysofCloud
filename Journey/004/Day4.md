@@ -22,4 +22,4 @@ https://docs.microsoft.com/en-us/microsoft-365/enterprise/set-up-directory-synch
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6727416130887143424-zMXd)
