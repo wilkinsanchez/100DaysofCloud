@@ -20,6 +20,4 @@ https://docs.microsoft.com/en-us/microsoft-365/enterprise/plan-for-directory-syn
 https://docs.microsoft.com/en-us/microsoft-365/enterprise/set-up-directory-synchronization?view=o365-worldwide
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6727416130887143424-zMXd)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6727416130887143424-zMXd)
