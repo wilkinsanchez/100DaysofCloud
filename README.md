@@ -27,7 +27,7 @@
 - [ ] ☁️ 2 > [Configure Self-Service password reset - MS365](Journey/002/Day2.md)
 - [ ] ☁️ 3 > [Deploy Azure AD Smart Lockout](Journey/003/Day3.md)
 - [ ] ☁️ 4 > [Setup organization for identity synchronization](Journey/004/Day4.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 5 > [Implement Microsoft ATP policies](Journey/005/Day5.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
