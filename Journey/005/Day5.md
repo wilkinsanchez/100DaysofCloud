@@ -19,4 +19,4 @@ With this project I learn how to create a Safe link and attachment policy. I was
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6727773198030561280-t6AK)
