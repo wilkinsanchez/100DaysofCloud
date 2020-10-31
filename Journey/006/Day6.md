@@ -15,8 +15,9 @@ As we all may know, mailboxes can hold large amounts of potentially sensitive in
 
 I learned how to enable Azure Rights Management for Exchange Online which is is a cloud-based protection service that uses encryption, identity, and authorization policies to help secure files and emails across multiple devices, including phones, tablets, and PCs. I also learned how to create a Mail flow Encryption Rule using the Exchange Admin Center.
 
-## Social Proof
+https://docs.microsoft.com/en-us/microsoft-365/compliance/ome?view=o365-worldwide
+https://docs.microsoft.com/en-us/azure/information-protection/what-is-azure-rms
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+## Social Proof
 
 [Linkedin](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6728128727798177792-vcz0)
