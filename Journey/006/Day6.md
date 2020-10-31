@@ -19,4 +19,4 @@ I learned how to enable Azure Rights Management for Exchange Online which is is 
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[Linkedin](link)
+[Linkedin](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6728128727798177792-vcz0)
