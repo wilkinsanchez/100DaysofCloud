@@ -6,7 +6,7 @@
 
 ## Introduction
 
-I worked on this lab because I wanted to learn how to investigate the data that's being shared internally in any organization using Microsoft 365 services. How about if sensitive information is being shared internally and the admins don't know about it? Learning how to identify these issues with time can help us of data breaches and compliance violations.
+I worked on this lab because I wanted to learn how to investigate the data that's being shared internally in any organization using Microsoft 365 services. How about if sensitive information is being shared internally and the admins don't know about it? Learning how to use this tool can help us with legal and compliance investigations.
 
 ## Use Case
 
