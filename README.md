@@ -29,7 +29,7 @@
 - [ ] ☁️ 4 > [Setup organization for identity synchronization](Journey/004/Day4.md)
 - [ ] ☁️ 5 > [Implement Microsoft ATP policies](Journey/005/Day5.md)
 - [ ] ☁️ 6 > [Configure Office 365 Message Encryption](Journey/006/Day6.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Investigate Microsoft 365 Data](Journey/007/Day7.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
