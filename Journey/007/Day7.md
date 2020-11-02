@@ -21,4 +21,4 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery?view=o365-w
 
 ## Social Proof
 
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6728871718980583424-n33D)
