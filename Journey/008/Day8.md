@@ -15,6 +15,7 @@ The use case of this lab was to showcase how to deploy the VM and creating a web
 ## Cloud Research
 
 During this lab I was able to use Powershell on the VM to deploy the web server windows feature.
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal <\br>
 
 ## Social Proof
 
