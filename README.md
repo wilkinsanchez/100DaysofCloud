@@ -30,7 +30,7 @@
 - [ ] ☁️ 5 > [Implement Microsoft ATP policies](Journey/005/Day5.md)
 - [ ] ☁️ 6 > [Configure Office 365 Message Encryption](Journey/006/Day6.md)
 - [ ] ☁️ 7 > [Investigate Microsoft 365 Data](Journey/007/Day7.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 8 > [Deploy Azure VM](Journey/008/Day8.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
