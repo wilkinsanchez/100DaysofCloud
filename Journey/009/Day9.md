@@ -18,4 +18,4 @@ I was able to access the Teams admin platform and manage configurations that hel
 
 ## Social Proof
 
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6730304291166416896-XZ5B)
