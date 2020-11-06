@@ -31,7 +31,7 @@
 - [ ] ☁️ 6 > [Configure Office 365 Message Encryption](Journey/006/Day6.md)
 - [ ] ☁️ 7 > [Investigate Microsoft 365 Data](Journey/007/Day7.md)
 - [ ] ☁️ 8 > [Deploy Azure VM](Journey/008/Day8.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 9 > [Introduction to Microsoft Teams](Journey/009/Day9.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
