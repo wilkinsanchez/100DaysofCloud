@@ -32,7 +32,7 @@
 - [ ] ☁️ 7 > [Investigate Microsoft 365 Data](Journey/007/Day7.md)
 - [ ] ☁️ 8 > [Deploy Azure VM](Journey/008/Day8.md)
 - [ ] ☁️ 9 > [Introduction to Microsoft Teams](Journey/009/Day9.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [Introduction to Privileged Identity Management (PIM) Roles](Journey/010/Day10.md)
 
 ## Walking down the road
 
