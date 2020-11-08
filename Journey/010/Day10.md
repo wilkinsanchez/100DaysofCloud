@@ -26,4 +26,4 @@ During this lab I learned about enabling PIM, Configured PIM directory roles, pe
 
 ## Social Proof
 
-[Linkedin](link)
+[Linkedin](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6731293861521559552-905W)
