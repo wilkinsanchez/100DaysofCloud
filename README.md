@@ -37,7 +37,7 @@
 ## Walking down the road
 
 - [ ] ☁️ 11 > [Configure Security and Compliance for Microsoft Teams](Journey/011/Day11.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 12 > [Calculate Network bandwidth for Teams use and configure profiles for Team devices](Journey/012/Day12.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
