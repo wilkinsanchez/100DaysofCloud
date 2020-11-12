@@ -1,5 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://avatars.slack-edge.com/2020-03-04/972212402753_8a6e3197c49313ec131a_512.png)
 
 # Calculate Network bandwidth for Teams use and configure profiles for Teams devices.
 
