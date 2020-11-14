@@ -18,7 +18,7 @@ With this lab I was curious how to configure policies for meetings, live events,
 
 During this lab I was also able to upload a custom greeting message that will be displayed to users that are transferred to a voicemail. I was unable to test all the functionalities since I don't have a phone system that helps me play with it.
 
-https://docs.microsoft.com/en-us/microsoftteams/setting-up-your-phone-system
+https://docs.microsoft.com/en-us/microsoftteams/setting-up-your-phone-system </br>
 https://support.microsoft.com/en-us/office/manage-your-call-settings-in-teams-456cb611-3477-496f-b31a-6ab752a7595f
 
 ## Social Proof
