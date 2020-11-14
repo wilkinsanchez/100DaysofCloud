@@ -23,4 +23,4 @@ https://support.microsoft.com/en-us/office/manage-your-call-settings-in-teams-45
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6733503525839613952-wnhQ)
