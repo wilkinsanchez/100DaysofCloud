@@ -12,4 +12,4 @@ Today's learning was focused on deploying a Web app that runs a Docker container
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6734290911485935616-gRjb)
