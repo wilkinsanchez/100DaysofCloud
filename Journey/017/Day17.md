@@ -22,6 +22,9 @@ Some use cases for Conditional Access are:
 
 During this lab I created a policy that enables Multi-Factor Authentication when accessing the Azure Admin portal. I was able to deploy the policy to only a handful of users to make sure it works as expected.
 
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+
 ## Social Proof
 
 [LinkedIn](link)
