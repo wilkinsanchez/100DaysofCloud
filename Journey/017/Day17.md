@@ -27,4 +27,4 @@ https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overv
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_100daysofcloud-azure-microsoft365-activity-6735725412573417472-3LVS)
