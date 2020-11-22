@@ -31,6 +31,9 @@ RBAC gives you granular control over resource access. You could use it, for exam
 
 For today's lab, I created a custom RBAC role that allows members of a security group to have Read-Only permissions to the VM's deployed in my tenant. This is a great way of providing just the necessary set of permissions to users and you also have the flexibility to be very granular when setting it up.
 
+https://sharegate.com/blog/azure-governance-best-practices-what-is-rbac
+https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+
 ## Social Proof
 
 [LinkedIn](link)
