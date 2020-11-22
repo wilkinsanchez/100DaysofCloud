@@ -25,7 +25,7 @@ RBAC gives you granular control over resource access. You could use it, for exam
 * Give a user full ownership access to all the resources within a specific resource group
 * Let a user manage access to all virtual machines in a subscription
 * Give an application permission to manage a specific resource type within a specific resource group
-* When you assign someone a role, that role becomes tied to their credentials and applies anywhere those credentials are used.
+When you assign someone a role, that role becomes tied to their credentials and applies anywhere those credentials are used.
 
 ## Cloud Research
 
