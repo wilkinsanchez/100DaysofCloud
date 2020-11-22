@@ -37,4 +37,4 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/pulse/day-18100-rbac-roles-azure-wilkin-sanchez-black-lives-matter)
