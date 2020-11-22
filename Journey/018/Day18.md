@@ -16,7 +16,7 @@ Here are some examples of what you can do with Azure RBAC:
 * Allow a DBA group to manage SQL databases in a subscription
 * Allow a user to manage all resources in a resource group, such as virtual machines, websites, and subnets
 * Allow an application to access all resources in a resource group
-* Azure includes several built-in roles that you can use. For example, the Virtual Machine Contributor role allows a user to create and manage virtual machines. If the built-in * roles don't meet the specific needs of your organization, you can create your own Azure custom roles.
+* Azure includes several built-in roles that you can use. For example, the Virtual Machine Contributor role allows a user to create and manage virtual machines. If the built-in  roles don't meet the specific needs of your organization, you can create your own Azure custom roles.
 
 ## Use Case
 
@@ -24,7 +24,8 @@ RBAC gives you granular control over resource access. You could use it, for exam
 
 * Give a user full ownership access to all the resources within a specific resource group
 * Let a user manage access to all virtual machines in a subscription
-* Give an application permission to manage a specific resource type within a specific resource group
+* Give an application permission to manage a specific resource type within a specific resource group </br>
+
 When you assign someone a role, that role becomes tied to their credentials and applies anywhere those credentials are used.
 
 ## Cloud Research
