@@ -44,7 +44,7 @@
 - [ ] ☁️ 16 > [Create Dynamic Group in AzureAD](Journey/016/Day16.md)
 - [ ] ☁️ 17 > [Configure Conditional Access Policy](Journey/017/Day17.md)
 - [ ] ☁️ 18 > [Configure Custom RBAC roles](Journey/018/Day18.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [ ] ☁️ 19 > [Configured Azure AD Privileged Identity Management](Journey/019/Day19.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
