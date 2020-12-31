@@ -17,4 +17,4 @@ Identity management is key to granting access and to the security enhancement of
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6750232626969358336-tJeT)
