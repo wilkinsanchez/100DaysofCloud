@@ -40,16 +40,16 @@
 - [ ] ☁️ 12 > [Calculate Network bandwidth for Teams use and configure profiles for Team devices](Journey/012/Day12.md)
 - [ ] ☁️ 13 > [Configured Microsoft Teams collaboration settings](Journey/013/Day13.md)
 - [ ] ☁️ 14 > [Configured Microsoft Teams communications settings](Journey/014/Day14.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 15 > [Deploy Web App that runs Docker container](Journey/015/Day15.md)
+- [ ] ☁️ 16 > [Create Dynamic Group in AzureAD](Journey/016/Day16.md)
+- [ ] ☁️ 17 > [Configure Conditional Access Policy](Journey/017/Day17.md)
+- [ ] ☁️ 18 > [Configure Custom RBAC roles](Journey/018/Day18.md)
+- [ ] ☁️ 19 > [Configured Azure AD Privileged Identity Management](Journey/019/Day19.md)
+- [ ] ☁️ 20 > [Learned about Azure AD Identity Protection](Journey/020/Day20.md)
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
+- [ ] ☁️ 21 > [Created an Identity and Access management security baseline](Journey/021/Day21.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
