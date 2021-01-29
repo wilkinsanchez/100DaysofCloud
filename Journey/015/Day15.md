@@ -4,7 +4,7 @@
 
 ## Introduction
 
-With this lab I learned how to deploy a Web App that runs on a Docker Container.
+With this lab I learned how to deploy a Web App that runs on a Docker Container
 
 ## Use Case
 
