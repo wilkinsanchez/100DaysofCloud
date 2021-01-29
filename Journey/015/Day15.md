@@ -5,11 +5,15 @@
 
 ## Introduction
 
+<<<<<<< HEAD
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
 ## Prerequisite
 
 ✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+=======
+With this lab I learned how to deploy a Web App that runs on a Docker Container
+>>>>>>> 15aabd4315aa2c8b3c4fdae0509000d67224058f
 
 ## Use Case
 
