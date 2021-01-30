@@ -1,28 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://miro.medium.com/fit/c/1733/520/1*sK7nb7Doewq9B9oq1ldWbg.png)
 
-# New post title here
+# Deploy Web App that runs Docker Container
 
 ## Introduction
 
-<<<<<<< HEAD
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-=======
 With this lab I learned how to deploy a Web App that runs on a Docker Container
->>>>>>> 15aabd4315aa2c8b3c4fdae0509000d67224058f
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Today's learning was focused on deploying a Web app that runs a Docker container using Azure. We can easily pull container images from the Docker Hub or a private Azure Container Registry and the Web App will deploy a containerized app to production in seconds. Something cool I learned was that the platform takes care of OS patching, capacity provisioning, and load balancing.
 
-## Cloud Research
+## Social Proof
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6734290911485935616-gRjb)
