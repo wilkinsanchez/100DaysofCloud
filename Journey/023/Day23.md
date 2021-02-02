@@ -32,4 +32,4 @@ With a DLP policy, you can:
 
 ## Social Proof
 
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6762206813871050752-Z4Y4)
