@@ -16,4 +16,4 @@ The Microsoft attack simulator is a great tool for when you want to test your in
 
 ## Social Proof
 
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6762196988097368064-_F9S)
