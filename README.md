@@ -50,7 +50,7 @@
 ## Crossing the bridge
 
 - [ ] ☁️ 21 > [Created an Identity and Access management security baseline](Journey/021/Day21.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
+- [ ] ☁️ 22 > [Conduct Phishing and Password attack using Microsoft Attack Simulator](Journey/022/Day22.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
