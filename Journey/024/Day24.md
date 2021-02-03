@@ -44,4 +44,4 @@ During this lab I performed proof of concept using Azure Policy and performed th
 
 ## Social Proof
 
-[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6762206813871050752-Z4Y4)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_100daysofcloud-azurepolicy-azure-activity-6762731397917618176-nHVg)
