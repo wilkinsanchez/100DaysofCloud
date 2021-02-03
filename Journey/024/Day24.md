@@ -1,52 +1,47 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://azure.microsoft.com/svghandler/azure-policy?width=600&height=315)
 
-# New post title here
+# Manage Azure Policy
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Azure Policy helps to enforce organizational standards and to assess compliance at-scale. Through its compliance dashboard, it provides an aggregated view to evaluate the overall state of the environment, with the ability to drill down to the per-resource, per-policy granularity. It also helps to bring your resources to compliance through bulk remediation for existing resources and automatic remediation for new resources.
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Azure Policy allows you to ensure that all resources are configured with required services, and will tell you when systems are out of compliance. So if you want all of your resources to be configured with Azure Backups, for example, it will either alert you when a VM doesn’t have Azure Backups configured or can automatically configure Azure Backups on that VM.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Business rules for handling non-compliant resources vary widely between organizations. Examples of how an organization wants the platform to respond to a non-compliant resource include:
+
+* Deny the resource change
+* Log the change to the resource
+* Alter the resource before the change
+* Alter the resource after the change
+* Deploy related compliant resources
+
+Also, you can use some of the following built-in Azure Policy policies to follow your company compliance guidelines:
+
+* <b>Allowed Storage Account SKUs (Deny):</b> Determines if a storage account being deployed is within a set of SKU sizes. Its effect is to deny all storage accounts that don't adhere to the set of defined SKU sizes.
+
+* <b>Allowed Resource Type (Deny)</b>: Defines the resource types that you can deploy. Its effect is to deny all resources that aren't part of this defined list.
+
+* <b>Allowed Locations (Deny):</b> Restricts the available locations for new resources. Its effect is used to enforce your geo-compliance requirements.
+
+* <b>Allowed Virtual Machine SKUs (Deny):</b> Specifies a set of virtual machine SKUs that you can deploy.
+
+* <b>Add a tag to resources (Modify):</b> Applies a required tag and its default value if it's not specified by the deploy request.
+
+* <b>Not allowed resource types (Deny):</b> Prevents a list of resource types from being deployed.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+During this lab I performed proof of concept using Azure Policy and performed the following tasks:
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+* Created an Azure resource group
+* Created an allowed locations policy assignment with the following information
+    * Only resources can be deployed in the East US availability zone
+    * Prevent resources from getting created if they don't comply with this policy
+* Tested my policy to make sure it works fine. To test it out, I tried deploying a virtual network to the East US availability zone and the UK West region to see the outcomes. As a result, I was able able to deploy the Virtual network on the East US zone.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6762206813871050752-Z4Y4)
