@@ -54,7 +54,7 @@
 - [ ] ☁️ 23 > [Create Data Loss Prevention (DLP) policy](Journey/023/Day23.md)
 - [ ] ☁️ 24 > [Implement Azure Policy](Journey/024/Day24.md)
 - [ ] ☁️ 25 > [Protecting Azure resources with Azure Lock](Journey/025/Day25.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
+- [ ] ☁️ 26 > [Managing Azure AD Identities](Journey/026/Day26.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
