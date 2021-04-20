@@ -21,6 +21,4 @@ During this lab I was able to configure Microsoft Defender for Identity to my ow
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6790094673584226304-X3G1)
