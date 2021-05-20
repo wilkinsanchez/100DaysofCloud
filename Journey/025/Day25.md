@@ -16,7 +16,7 @@ To create or delete management locks, you must have access to Microsoft.Authoriz
 
 ## Cloud Research
 
-During this lab I worked on setting up Azure locks to protect the most important resources of my cloud environment. With Azure locks we can prevent accidental resources of important cloud resources for example.
+During this lab I worked on setting up Azure locks to protect the most important resources of my cloud environment. With Azure locks we can prevent accidental deletion of important cloud resources for example.
 
 ## Resources
 
