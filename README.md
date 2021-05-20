@@ -55,7 +55,7 @@
 - [ ] ☁️ 24 > [Implement Azure Policy](Journey/024/Day24.md)
 - [ ] ☁️ 25 > [Protecting Azure resources with Azure Lock](Journey/025/Day25.md)
 - [ ] ☁️ 26 > [Deployed Microsoft Defender for Identity to On-Premises AD](Journey/026/Day26.md)
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
+- [ ] ☁️ 27 > [Configure Mailbox In-Place Archiving](Journey/027/Day27.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
