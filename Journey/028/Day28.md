@@ -1,52 +1,28 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://azure.microsoft.com/svghandler/managed-disks?width=600&height=315)
 
-# New post title here
+# Creating and Restoring File Share Snapshots in Azure 
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ During today's lab I will learn how to create and restore file share snapshots in the Azure portal. For an organization and its users, it's very important that they have access to file versioning in case they need to go back and search for a file that was modified or deleted by an user. It is very simple to accomplish that in Azure.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+An interesting use case would be:
 
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+* Multiple users access the same file/folder and we want to make sure that file versioning is available. The reason why, sometimes users make mistakes on the files or they get deleted accidentally.
+* With Azure File Share Snapshots we can solve that problem.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+During this lab I was able to accomplish the following:
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+* Created VM to test the File Share.
+* Created a new storage account.
+* Created a file share in Azure.
+* Connected the File Share to the VM using Powershell.
+* Took a snapshot from the Azure portal and restored data.
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
