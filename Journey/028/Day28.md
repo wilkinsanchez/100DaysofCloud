@@ -25,4 +25,4 @@ During this lab I was able to accomplish the following:
 
 ## Social Proof
 
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6820903822303600640-OtRH)
