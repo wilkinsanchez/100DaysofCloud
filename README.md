@@ -58,7 +58,7 @@
 - [ ] ☁️ 27 > [Configure Mailbox In-Place Archiving](Journey/027/Day27.md)
 - [ ] ☁️ 28 > [Creating and restoring File Share Snapshots in Azure](Journey/028/Day28.md)
 - [ ] ☁️ 29 > [Using Powershell to resize an Azure VM in an Availability Set](Journey/029/Day29.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [ ] ☁️ 30 > [Backing up an Azure VM using Azure Backup Service](Journey/030/Day30.md)
 
 ## Into the bushy, thorny forest
 
