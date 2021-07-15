@@ -29,4 +29,4 @@ During this lab I accomplished the following:
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_wilkinsanchez100daysofcloud-activity-6821295142805364736-TDXT)
