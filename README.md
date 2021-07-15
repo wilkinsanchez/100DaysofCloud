@@ -57,7 +57,7 @@
 - [ ] ☁️ 26 > [Deployed Microsoft Defender for Identity to On-Premises AD](Journey/026/Day26.md)
 - [ ] ☁️ 27 > [Configure Mailbox In-Place Archiving](Journey/027/Day27.md)
 - [ ] ☁️ 28 > [Creating and restoring File Share Snapshots in Azure](Journey/028/Day28.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
+- [ ] ☁️ 29 > [Using Powershell to resize an Azure VM in an Availability Set](Journey/029/Day29.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
