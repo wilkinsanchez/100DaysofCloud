@@ -63,7 +63,7 @@
 ## Into the bushy, thorny forest
 
 - [ ] ☁️ 31 > [Creating an Azure Virtual Network](Journey/031/Day31.md)
-- [ ] ☁️ 32 > [](Journey/032/Readme.md)
+- [ ] ☁️ 32 > [Deploying an Azure Storage Account using Terraform](Journey/032/Day32.md)
 - [ ] ☁️ 33 > [](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
