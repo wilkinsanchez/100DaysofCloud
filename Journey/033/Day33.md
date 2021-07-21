@@ -102,4 +102,4 @@ https://www.terraform.io/docs/index.html
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_github-wilkinsanchez100daysofcloud-wilkins-activity-6823433934756564992-qAub)
