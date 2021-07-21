@@ -1,7 +1,6 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://miro.medium.com/max/1119/1*5fXMv4u9Kf79ptJyI7qF3g.png)
 
-# New post title here
+# Deploying an Azure File Share and Blob Storage using Terraform
 
 ## Introduction
 
