@@ -162,4 +162,4 @@ During this lab I accomplished the following using Terraform:
 
 ## Social Proof
 
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_github-wilkinsanchez100daysofcloud-wilkins-activity-6828516103581433856-pSOt)
