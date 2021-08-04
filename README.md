@@ -67,7 +67,7 @@
 - [ ] ☁️ 33 > [Deploying an Azure File Share and Blob Storage using Terraform](Journey/033/Day33.md)
 - [ ] ☁️ 34 > [Deploying an Azure Virtual Network and Subnets using Terraform](Journey/034/Day34.md)
 - [ ] ☁️ 35 > [Creating and configuring Network Security Groups using Terraform](Journey/035/Day35.md)
-- [ ] ☁️ 36 > [](Journey/036/Readme.md)
+- [ ] ☁️ 36 > [Deploying an Azure VM with networking using Terraform](Journey/036/Day36.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
