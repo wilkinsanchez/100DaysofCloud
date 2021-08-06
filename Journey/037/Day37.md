@@ -95,4 +95,4 @@ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/
 
 ## Social Proof
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/posts/wilkinsanchez_github-wilkinsanchez100daysofcloud-wilkins-activity-6829238366559719424-EZgY)
