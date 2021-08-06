@@ -68,8 +68,8 @@
 - [ ] ☁️ 34 > [Deploying an Azure Virtual Network and Subnets using Terraform](Journey/034/Day34.md)
 - [ ] ☁️ 35 > [Creating and configuring Network Security Groups using Terraform](Journey/035/Day35.md)
 - [ ] ☁️ 36 > [Deploying an Azure VM with networking using Terraform](Journey/036/Day36.md)
-- [ ] ☁️ 37 > [](Journey/037/Readme.md)
-- [ ] ☁️ 38 > [](Journey/038/Readme.md)
+- [ ] ☁️ 37 > [Deploying Web Applications using Terraform](Journey/037/Day37.md)
+- [ ] ☁️ 38 > [Deploying Database Instances using Terraform](Journey/038/Day38.md)
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
 - [ ] ☁️ 40 > [](Journey/040/Readme.md)
 
