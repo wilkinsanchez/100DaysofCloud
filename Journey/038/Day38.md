@@ -4,7 +4,7 @@
 
 ## Introduction
 
-For today's lab we will work on deploying a MySWL database instance using Terraform. Azure Database for MySQL is a relational database service powered by the MySQL community edition.You can use either Single Server or Flexible Server (Preview) to host a MySQL database in Azure. It's a fully managed database as a service offering that can handle mission-critical workloads with predictable performance and dynamic scalability.
+For today's lab I worked on deploying a MySQL database instance using Terraform. Azure Database for MySQL is a relational database service powered by the MySQL community edition.You can use either Single Server or Flexible Server (Preview) to host a MySQL database in Azure. It's a fully managed database as a service offering that can handle mission-critical workloads with predictable performance and dynamic scalability.
  
 ## Lets get hands on!
 
