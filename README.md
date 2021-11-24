@@ -71,7 +71,7 @@
 - [ ] ☁️ 37 > [Deploying Web Applications using Terraform](Journey/037/Day37.md)
 - [ ] ☁️ 38 > [Deploying Database Instances using Terraform](Journey/038/Day38.md)
 - [ ] ☁️ 39 > [Troubleshoot sync issues between MS365 Cloud-only account and On-premises AD account](Journey/039/Day39.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+- [ ] ☁️ 40 > [Deploying Microsoft Defender for Endpoint](Journey/040/Day40.md)
 
 ## Trekking the dunes
 
