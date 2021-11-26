@@ -32,4 +32,4 @@ During this lab I was able to perform the following tasks:
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/wilkinsanchez_github-wilkinsanchez100daysofcloud-wilkins-activity-6869111603191803904-UBU_)
