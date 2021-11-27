@@ -76,7 +76,7 @@
 ## Trekking the dunes
 
 - [ ] ☁️ 41 > [Working with Microsoft Defender for Cloud](Journey/041/Day41.md)
-- [ ] ☁️ 42 > [](Journey/042/Readme.md)
+- [ ] ☁️ 42 > [Introduction to KQL (Kusto Query Language)](Journey/042/Day42.md)
 - [ ] ☁️ 43 > [](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [](Journey/044/Readme.md)
 - [ ] ☁️ 45 > [](Journey/045/Readme.md)
