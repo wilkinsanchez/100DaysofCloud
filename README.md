@@ -78,7 +78,7 @@
 - [ ] ☁️ 41 > [Working with Microsoft Defender for Cloud](Journey/041/Day41.md)
 - [ ] ☁️ 42 > [Introduction to KQL (Kusto Query Language)](Journey/042/Day42.md)
 - [ ] ☁️ 43 > [Basic configuration of a Microsoft Sentinel Environment](Journey/043/Day43.md)
-- [ ] ☁️ 44 > [Connecting Services to Microsoft Sentinel](Journey/044/Day44.md)
+- [ ] ☁️ 44 > [](Journey/044/Day44.md)
 - [ ] ☁️ 45 > [](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [](Journey/047/Readme.md)
