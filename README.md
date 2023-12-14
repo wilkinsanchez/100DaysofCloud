@@ -82,7 +82,7 @@
 - [ ] ☁️ 45 > [Deploy applications to Azure Kubernetes Service (AKS)](Journey/045/Day45.md)
 - [ ] ☁️ 46 > [Configuring systems with Windows Autopilot](Journey/046/Day46.md)
 - [ ] ☁️ 47 > [Configure Windows LAPS using Microsoft Intune](Journey/047/Day47.md)
-- [ ] ☁️ 48 > [](Journey/048/Readme.md)
+- [ ] ☁️ 48 > [Configure and deploy ASR rules using Intune](Journey/048/Day48.md)
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
