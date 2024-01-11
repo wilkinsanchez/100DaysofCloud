@@ -83,7 +83,7 @@
 - [ ] ☁️ 46 > [Configuring systems with Windows Autopilot](Journey/046/Day46.md)
 - [ ] ☁️ 47 > [Configure Windows LAPS using Microsoft Intune](Journey/047/Day47.md)
 - [ ] ☁️ 48 > [Configure and deploy ASR rules using Intune](Journey/048/Day48.md)
-- [ ] ☁️ 49 > [](Journey/049/Readme.md)
+- [ ] ☁️ 49 > [Deployment of MacOS using Microsoft Intune](Journey/049/Day49.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
 ## Winding through the canyons
