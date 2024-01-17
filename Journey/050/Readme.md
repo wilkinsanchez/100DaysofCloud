@@ -1,49 +1,20 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://helpdesk.forestry.oregonstate.edu/sites/default/files/images/installation_guides/MDE/Capture.PNG)
 
-# New post title here
+# Configure Microsoft Defender for Endpoint on macOS devices using Intune
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+✍️ Microsoft Defender for Endpoint is a comprehensive, enterprise-level solution that offers preventative protection, post-breach detection, automated investigation, and response capabilities. I chose to work in this lab to learn more about securing macOS devices using Microsoft services and Intune.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ During this lab, I performed the following actions:
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+1. Created system configuration profiles to integrate Defender for Endpoint on the macOS device seamlessly.
+2. This configuration included System extensions, network filters, Full Disk access, and auto-update settings.
+3. Configured Defender policies in Intune.
+4. Published Defender application.
+5. Deployed onboarding package to devices.
 
 ## Social Proof
 
