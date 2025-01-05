@@ -90,7 +90,7 @@
 
 - [ ] ☁️ 51 > [Using Azure Key Vault to protect script secrets](Journey/051/Day51.md)
 - [ ] ☁️ 52 > [Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR](Journey/052/Day52.md)
-- [ ] ☁️ 53 > [](Journey/053/Readme.md)
+- [ ] ☁️ 53 > [Microsoft Applied Skills: Deploy and configure Azure Monitor](Journey/053/Day53.md)
 - [ ] ☁️ 54 > [](Journey/054/Readme.md)
 - [ ] ☁️ 55 > [](Journey/055/Readme.md)
 - [ ] ☁️ 56 > [](Journey/056/Readme.md)
